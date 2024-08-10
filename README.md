@@ -1,8 +1,8 @@
 # PopClip高德地图扩展
-[![GitHub license](https://img.shields.io/github/license/hyue418/technical-excerpt-optimization.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/hyue418/popclip-gaode-maps)
-[![GitHub Star](https://img.shields.io/github/stars/hyue418/technical-excerpt-optimization.svg?style=flat-square&label=Star&color=4285dd&logo=github)](https://github.com/hyue418/technical-excerpt-optimization)
-[![GitHub Fork](https://img.shields.io/github/forks/hyue418/technical-excerpt-optimization.svg?style=flat-square&label=Fork&color=4285dd&logo=github)](https://github.com/hyue418/technical-excerpt-optimization)
-[![](https://data.jsdelivr.com/v1/package/gh/hyue418/technical-excerpt-optimization/badge)](https://www.jsdelivr.com/package/gh/hyue418/technical-excerpt-optimization)
+[![GitHub license](https://img.shields.io/github/license/hyue418/popclip-gaode-maps.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/hyue418/popclip-gaode-maps)
+[![GitHub Star](https://img.shields.io/github/stars/hyue418/popclip-gaode-maps.svg?style=flat-square&label=Star&color=4285dd&logo=github)](https://github.com/hyue418/popclip-gaode-maps)
+[![GitHub Fork](https://img.shields.io/github/forks/hyue418/popclip-gaode-maps.svg?style=flat-square&label=Fork&color=4285dd&logo=github)](https://github.com/hyue418/popclip-gaode-maps)
+[![](https://data.jsdelivr.com/v1/package/gh/hyue418/popclip-gaode-maps/badge)](https://www.jsdelivr.com/package/gh/hyue418/popclip-gaode-maps)
 ### 支持选中文本后直接跳转至高德地图
 ```yaml
 #popclip
